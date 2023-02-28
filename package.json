@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^2.3.0",
+    "@tensorflow/tfjs": "^4.2.0",
     "lodash": "^4.17.11",
     "shuffle-seed": "^1.1.6"
+  },
+  "devDependencies": {
+    "prettier": "2.8.4"
   }
 }
